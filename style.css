@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+color: beige;
+}
+body{
+   background-image: url(aelx-ErK5GRq6URU-unsplash.jpg);
+   
+   background-size: cover;
+   background-position: center;
+   
+  
+}
+.login{
+    border: 1px solid black;
+    width: 300px;
+   text-align: center;
+    margin-top: 200px;
+    margin-left: 650px;
+    background: transparent;
+    border-radius: 20px;
+
+}
+.a{
+    text-align:left ;
+    margin-bottom: 0px;
+    padding-left: 40px;
+}
+#img > #c {
+    border: 2px solid black;
+    border-radius: 40px;
+    width: 80%;
+  height: 40px;
+outline: none;
+padding-left: 40px;
+background: transparent;
+}
+.c{
+    position: relative;
+   right: 30px;
+}
+.b{ position: relative;
+    right: 30px;
+}
+.btn{
+    width: 80%;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 40px;
+    color: black;
+}
+::placeholder{
+    color: beige;
+}
