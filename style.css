@@ -18,6 +18,7 @@ body{
     margin-left: 650px;
     background: transparent;
     border-radius: 20px;
+      backdrop-filter: blur(20px);
 
 }
 .a{
